@@ -141,6 +141,7 @@ Building modern, scalable web applications with a focus on clean code, performan
 
 ---
 
+<!--
 ## 🤝 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/your-profile
@@ -148,6 +149,7 @@ Building modern, scalable web applications with a focus on clean code, performan
 * 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 
 ---
+-->
 
 ![](https://komarev.com/ghpvc/?username=minimalist-18\&style=for-the-badge\&color=0e75b6)
 
